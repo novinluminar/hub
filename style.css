@@ -1,0 +1,82 @@
+[11:09 AM, 8/8/2023] Swaaaha: body{
+    background: black;
+}
+button{
+    border-radius: 6px;
+}
+div{
+    width: 400px;
+height: 256px;
+    background-color: grey;
+    border-radius: 5px;
+}
+
+.div1{
+    border: white solid 1px;
+    background: grey;
+    height: 35px;
+}
+[11:09 AM, 8/8/2023] Swaaaha: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>facebook Login Page</title>
+    <link rel="stylesheet" href="./facebookstyle.css">
+</head>
+<body>
+    <h1>facebook</h1>
+<center>
+<form>
+    <p span style="font-size: large;"> Log in to Facebook</p>
+      <br>
+      <input type="text" placeholder="Email or Phone Number"  />
+
+      <br><br>
+      <input type="password" placeholder="Password" >
+      <br><br>
+      <button span style="background-color: blue; " type="login">Log In</button><br><br>
+      <a href="#">Forgot Password ?</a><br><br>
+      <a href="#">Sign up for Facebook</a><br><br>
+    </center>
+      
+    </form>
+</body>
+</html>
+[11:09 AM, 8/8/2023] Swaaaha: body{
+    background: white;
+}
+h1{
+    color: blue;
+    font-size: 50px;
+    margin-left: 700px;
+    margin-top: 65px;
+}
+h3{
+    margin-left: 650px;
+}
+input{
+    font-size: 20px;
+    background-color: white;
+}
+
+form{
+
+    margin-left: 150px;
+    background: whitesmoke;
+    padding: 0px;
+    border-radius: 32px;
+    width: 530px;
+    height: 380px;
+    
+}
+button{
+    display: inline-block;
+    width: 300px;
+    background: #1877f2;
+    padding: 15px 18px;
+    border-radius: 6px;
+    font-size: 18px;
+    color: #fff;
+}
